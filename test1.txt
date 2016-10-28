@@ -1,10 +1,1 @@
- Volume in drive C is Windows8_OS
- Volume Serial Number is FCDE-2EFA
-
- Directory of C:\Users\srikanth\Desktop\MYPROJECT
-
-10/20/2016  07:21 PM    <DIR>          .
-10/20/2016  07:21 PM    <DIR>          ..
-10/20/2016  07:21 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  59,565,035,520 bytes free
+ hdskjhjkhkj
